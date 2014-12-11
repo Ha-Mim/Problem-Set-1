@@ -1,0 +1,5 @@
+D:\HelloWorldApp\GreetingApps\GreetingApps\bin\Debug\GreetingApps.exe.config
+D:\HelloWorldApp\GreetingApps\GreetingApps\bin\Debug\GreetingApps.exe
+D:\HelloWorldApp\GreetingApps\GreetingApps\bin\Debug\GreetingApps.pdb
+D:\HelloWorldApp\GreetingApps\GreetingApps\obj\Debug\GreetingApps.exe
+D:\HelloWorldApp\GreetingApps\GreetingApps\obj\Debug\GreetingApps.pdb

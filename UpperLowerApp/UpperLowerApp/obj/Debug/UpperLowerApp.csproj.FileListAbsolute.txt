@@ -1,0 +1,8 @@
+D:\HelloWorldApp\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe.config
+D:\HelloWorldApp\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe
+D:\HelloWorldApp\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.pdb
+D:\HelloWorldApp\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.exe
+D:\HelloWorldApp\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.pdb
+E:\HelloWorldApp\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe.config
+E:\HelloWorldApp\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.exe
+E:\HelloWorldApp\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.pdb

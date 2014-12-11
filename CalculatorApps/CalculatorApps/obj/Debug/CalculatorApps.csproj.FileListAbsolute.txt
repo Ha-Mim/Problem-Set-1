@@ -1,0 +1,8 @@
+D:\HelloWorldApp\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+D:\HelloWorldApp\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe
+D:\HelloWorldApp\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.pdb
+D:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.exe
+D:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb
+E:\HelloWorldApp\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+E:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.exe
+E:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb

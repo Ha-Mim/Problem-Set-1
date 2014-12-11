@@ -1,0 +1,8 @@
+D:\HelloWorldApp\LoopApp\LoopApp\bin\Debug\LoopApp.exe.config
+D:\HelloWorldApp\LoopApp\LoopApp\bin\Debug\LoopApp.exe
+D:\HelloWorldApp\LoopApp\LoopApp\bin\Debug\LoopApp.pdb
+D:\HelloWorldApp\LoopApp\LoopApp\obj\Debug\LoopApp.exe
+D:\HelloWorldApp\LoopApp\LoopApp\obj\Debug\LoopApp.pdb
+E:\HelloWorldApp\LoopApp\LoopApp\bin\Debug\LoopApp.exe.config
+E:\HelloWorldApp\LoopApp\LoopApp\obj\Debug\LoopApp.exe
+E:\HelloWorldApp\LoopApp\LoopApp\obj\Debug\LoopApp.pdb

@@ -1,0 +1,9 @@
+D:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\bin\Debug\EnvironmentVariableApp.exe.config
+D:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\obj\Debug\EnvironmentVariableApp.csprojResolveAssemblyReference.cache
+D:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\bin\Debug\EnvironmentVariableApp.exe
+D:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\bin\Debug\EnvironmentVariableApp.pdb
+D:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\obj\Debug\EnvironmentVariableApp.exe
+D:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\obj\Debug\EnvironmentVariableApp.pdb
+E:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\bin\Debug\EnvironmentVariableApp.exe.config
+E:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\obj\Debug\EnvironmentVariableApp.exe
+E:\HelloWorldApp\EnvironmentVariableApp\EnvironmentVariableApp\obj\Debug\EnvironmentVariableApp.pdb

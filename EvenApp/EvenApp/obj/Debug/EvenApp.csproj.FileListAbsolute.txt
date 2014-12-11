@@ -1,0 +1,8 @@
+D:\HelloWorldApp\EvenApp\EvenApp\bin\Debug\EvenApp.exe.config
+D:\HelloWorldApp\EvenApp\EvenApp\bin\Debug\EvenApp.exe
+D:\HelloWorldApp\EvenApp\EvenApp\bin\Debug\EvenApp.pdb
+D:\HelloWorldApp\EvenApp\EvenApp\obj\Debug\EvenApp.exe
+D:\HelloWorldApp\EvenApp\EvenApp\obj\Debug\EvenApp.pdb
+E:\HelloWorldApp\EvenApp\EvenApp\bin\Debug\EvenApp.exe.config
+E:\HelloWorldApp\EvenApp\EvenApp\obj\Debug\EvenApp.exe
+E:\HelloWorldApp\EvenApp\EvenApp\obj\Debug\EvenApp.pdb
