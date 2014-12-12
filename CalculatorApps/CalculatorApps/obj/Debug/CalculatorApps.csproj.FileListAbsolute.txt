@@ -6,3 +6,8 @@ D:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb
 E:\HelloWorldApp\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe.config
 E:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.exe
 E:\HelloWorldApp\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb
+C:\Users\LICT\Desktop\Problem-Set-1\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+C:\Users\LICT\Desktop\Problem-Set-1\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.exe
+C:\Users\LICT\Desktop\Problem-Set-1\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb
+C:\Users\LICT\Desktop\Problem-Set-1\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe
+C:\Users\LICT\Desktop\Problem-Set-1\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.pdb

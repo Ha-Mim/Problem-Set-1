@@ -45,7 +45,7 @@ namespace CalculatorApps
             }
             else
             {
-                double div = a/b;
+                float div =(float) a/b;
                 Console.WriteLine("Division Result = {0}", div);
                 Console.ReadLine();
             }

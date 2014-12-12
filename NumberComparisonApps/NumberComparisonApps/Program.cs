@@ -23,11 +23,16 @@ namespace NumberComparisonApps
                 Console.WriteLine("Large Number = {0}", a);
                 Console.ReadLine();
             }
-            else
+            else if (a<b)
             {
                 Console.WriteLine("Small Number = {0}", a);
                 Console.ReadLine();
                 Console.WriteLine("Large Number = {0}", b);
+                Console.ReadLine();
+            }
+            else if (a == b)
+            {
+                Console.WriteLine("a is equal to b");
                 Console.ReadLine();
             }
         }

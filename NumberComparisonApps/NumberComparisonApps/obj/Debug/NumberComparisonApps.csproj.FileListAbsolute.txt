@@ -7,3 +7,9 @@ D:\HelloWorldApp\NumberComparisonApps\NumberComparisonApps\obj\Debug\NumberCompa
 E:\HelloWorldApp\NumberComparisonApps\NumberComparisonApps\bin\Debug\NumberComparisonApps.exe.config
 E:\HelloWorldApp\NumberComparisonApps\NumberComparisonApps\obj\Debug\NumberComparisonApps.exe
 E:\HelloWorldApp\NumberComparisonApps\NumberComparisonApps\obj\Debug\NumberComparisonApps.pdb
+C:\Users\LICT\Desktop\Problem-Set-1\NumberComparisonApps\NumberComparisonApps\bin\Debug\NumberComparisonApps.exe.config
+C:\Users\LICT\Desktop\Problem-Set-1\NumberComparisonApps\NumberComparisonApps\obj\Debug\NumberComparisonApps.exe
+C:\Users\LICT\Desktop\Problem-Set-1\NumberComparisonApps\NumberComparisonApps\obj\Debug\NumberComparisonApps.pdb
+C:\Users\LICT\Desktop\Problem-Set-1\NumberComparisonApps\NumberComparisonApps\bin\Debug\NumberComparisonApps.exe
+C:\Users\LICT\Desktop\Problem-Set-1\NumberComparisonApps\NumberComparisonApps\bin\Debug\NumberComparisonApps.pdb
+C:\Users\LICT\Desktop\Problem-Set-1\NumberComparisonApps\NumberComparisonApps\obj\Debug\NumberComparisonApps.csprojResolveAssemblyReference.cache
